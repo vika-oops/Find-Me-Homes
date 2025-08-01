@@ -1,0 +1,25 @@
+{
+  "name": "find-me-schools",
+  "version": "1.0.0",
+  "description": "Find Me Schools is a web-based platform designed to help parents and students discover suitable educational institutions across various levels, from daycares to universities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vika2541/Find-Me-Schools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vika2541/Find-Me-Schools/issues"
+  },
+  "homepage": "https://github.com/vika2541/Find-Me-Schools#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
